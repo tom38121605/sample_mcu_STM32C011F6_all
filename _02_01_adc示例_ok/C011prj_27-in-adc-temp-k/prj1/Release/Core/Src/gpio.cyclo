@@ -1,0 +1,5 @@
+stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	1
+gpio.c:42:6:MX_GPIO_Init	1
+gpio.c:87:6:led_toggle	1
+gpio.c:96:6:ommo_led_task	3
+gpio.c:113:6:ommo_led_err_task	3
