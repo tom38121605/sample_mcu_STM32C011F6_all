@@ -1,0 +1,9 @@
+../Core/Src/usart.c:37:6:MX_USART1_UART_Init	80	static,ignoring_inline_asm
+../Core/Src/usart.c:133:6:ommo_uart_tx_task	0	static,ignoring_inline_asm
+../Core/Src/usart.c:151:6:USART_TXEmpty_Callback	12	static,ignoring_inline_asm
+../Core/Src/usart.c:171:6:USART_CharTransmitComplete_Callback	0	static,ignoring_inline_asm
+../Core/Src/usart.c:190:6:Error_Callback	8	static
+../Core/Src/usart.c:235:6:USART_CharReception_Callback	0	static
+../Core/Src/usart.c:253:6:ommo_uart_tx_string_task	12	static
+../Core/Src/usart.c:272:6:ommo_uart_rx_string_task	16	static
+../Core/Src/usart.c:310:6:ommo_uart_task	8	static

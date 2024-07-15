@@ -1,0 +1,13 @@
+stm32c0xx_ll_spi.h:381:26:LL_SPI_IsEnabled	2
+stm32c0xx_ll_spi.h:665:22:LL_SPI_SetRxFIFOThreshold	1
+stm32c0xx_ll_spi.h:774:22:LL_SPI_SetCRCPolynomial	1
+stm32c0xx_ll_spi.h:1659:26:LL_I2S_IsEnabled	2
+stm32c0xx_ll_bus.h:561:22:LL_APB2_GRP1_ForceReset	1
+stm32c0xx_ll_bus.h:588:22:LL_APB2_GRP1_ReleaseReset	1
+stm32c0xx_ll_spi.c:133:13:LL_SPI_DeInit	2
+stm32c0xx_ll_spi.c:164:13:LL_SPI_Init	4
+stm32c0xx_ll_spi.c:242:6:LL_SPI_StructInit	1
+stm32c0xx_ll_spi.c:346:13:LL_I2S_DeInit	1
+stm32c0xx_ll_spi.c:361:13:LL_I2S_Init	7
+stm32c0xx_ll_spi.c:470:6:LL_I2S_StructInit	1
+stm32c0xx_ll_spi.c:492:6:LL_I2S_ConfigPrescaler	1

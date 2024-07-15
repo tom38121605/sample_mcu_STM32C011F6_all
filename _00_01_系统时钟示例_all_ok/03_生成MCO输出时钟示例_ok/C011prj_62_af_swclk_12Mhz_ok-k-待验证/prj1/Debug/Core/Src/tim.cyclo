@@ -1,0 +1,14 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	2
+core_cm0plus.h:850:22:__NVIC_SetPriority	2
+stm32c0xx_ll_bus.h:478:22:LL_APB2_GRP1_EnableClock	1
+stm32c0xx_ll_tim.h:1370:22:LL_TIM_EnableCounter	1
+stm32c0xx_ll_tim.h:1561:22:LL_TIM_DisableARRPreload	1
+stm32c0xx_ll_tim.h:3138:22:LL_TIM_SetClockSource	1
+stm32c0xx_ll_tim.h:3184:22:LL_TIM_SetTriggerOutput	1
+stm32c0xx_ll_tim.h:3214:22:LL_TIM_SetTriggerOutput2	1
+stm32c0xx_ll_tim.h:3284:22:LL_TIM_DisableMasterSlaveMode	1
+stm32c0xx_ll_tim.h:3909:22:LL_TIM_ClearFlag_UPDATE	1
+stm32c0xx_ll_tim.h:4272:22:LL_TIM_EnableIT_UPDATE	1
+tim.c:34:6:MX_TIM1_Init	1
+tim.c:83:6:TimerUpdate_Callback	1
+tim.c:91:6:ommo_timer1_task	8

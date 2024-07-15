@@ -1,0 +1,7 @@
+stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	1
+stm32c0xx_ll_gpio.h:493:22:LL_GPIO_SetPinPull.constprop	4
+stm32c0xx_ll_gpio.h:282:22:LL_GPIO_SetPinMode.constprop	4
+gpio.c:43:6:MX_GPIO_Init	1
+gpio.c:175:6:led_toggle	1
+gpio.c:184:6:ommo_led_task	1
+gpio.c:201:6:ommo_led_err_task	1

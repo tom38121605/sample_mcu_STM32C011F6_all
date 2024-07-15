@@ -1,0 +1,26 @@
+
+
+void delay_nop(uint32_t nCount) 
+{ 
+   for(; nCount != 0; nCount--)  
+   { 
+      __NOP(); 
+   } 
+}
+
+delay_nop(100); 
+
+
+
+
+----------------
+
+
+LL_mDelay(15000);
+
+
+
+----------------
+
+
+HAL_Delay(100);

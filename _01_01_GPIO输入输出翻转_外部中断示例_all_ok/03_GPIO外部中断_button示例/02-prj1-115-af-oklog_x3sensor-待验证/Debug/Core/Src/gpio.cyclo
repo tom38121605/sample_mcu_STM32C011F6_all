@@ -1,0 +1,13 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	2
+core_cm0plus.h:850:22:__NVIC_SetPriority	2
+stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	1
+stm32c0xx_ll_exti.h:979:22:LL_EXTI_SetEXTISource	1
+stm32c0xx_ll_gpio.h:282:22:LL_GPIO_SetPinMode	5
+stm32c0xx_ll_gpio.h:493:22:LL_GPIO_SetPinPull	5
+stm32c0xx_ll_gpio.h:890:22:LL_GPIO_SetOutputPin	1
+stm32c0xx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	1
+stm32c0xx_ll_gpio.h:948:22:LL_GPIO_TogglePin	1
+gpio.c:43:6:MX_GPIO_Init	1
+gpio.c:122:6:led_toggle	1
+gpio.c:131:6:ommo_led_task	1
+gpio.c:148:6:ommo_led_err_task	1

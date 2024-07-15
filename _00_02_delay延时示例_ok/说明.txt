@@ -1,0 +1,11 @@
+ 
+
+。使用HAL_Delay（）时必须小心，此函数根据SysTick ISR中增加的变量提供准确的延迟（以毫秒为单位）。
+这意味着如果从外围ISR进程调用HAL_ Delay（），
+
+。那么SysTick中断必须具有比外围中断更高的优先级（数字上更低）。否则，调用方ISR进程将被阻止。
+要更改SysTick中断优先级，必须使用HAL_NVIC_SetPriority（）函数。
+
+LL_mDelay也一样
+
+

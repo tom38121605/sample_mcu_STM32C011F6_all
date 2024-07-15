@@ -1,0 +1,14 @@
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:890:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/sensors/icm42605.c:18:13:icm_delay	16	static
+../Core/Src/sensors/icm42605.c:23:9:icm_read_byte	32	static
+../Core/Src/sensors/icm42605.c:37:6:icm_write_byte	16	static
+../Core/Src/sensors/icm42605.c:50:6:icm_read_bytes	32	static
+../Core/Src/sensors/icm42605.c:67:9:icm_get_chip_id	8	static
+../Core/Src/sensors/icm42605.c:72:6:icm_reset	24	static
+../Core/Src/sensors/icm42605.c:80:9:icm_status	8	static
+../Core/Src/sensors/icm42605.c:122:6:icm_readData	16	static
+../Core/Src/sensors/icm42605.c:128:7:icm_get_A_res	16	static
+../Core/Src/sensors/icm42605.c:156:7:icm_get_G_res	16	static
+../Core/Src/sensors/icm42605.c:199:6:icm_init	16	static
+../Core/Src/sensors/icm42605.c:242:6:icm_read_xyz	16	static

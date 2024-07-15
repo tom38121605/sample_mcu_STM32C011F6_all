@@ -1,0 +1,22 @@
+
+
+LL_GPIO_TogglePin( LED_GPIO_Port, LED_Pin);  
+
+LL_GPIO_ResetOutputPin( LED_GPIO_Port, LED_Pin);  
+
+LL_GPIO_SetOutputPin( LED_GPIO_Port, LED_Pin);  
+
+
+
+
+=================待验证==========================
+
+// 读取GPIOA.5的状态
+uint8_t Read_GPIOA_5(void) {
+return (GPIOA->IDR >> 5) & 0x01; // 读取GPIOA.5的状态，并返回
+}
+
+__STATIC_INLINE uint32_t LL_GPIO_ReadInputPort(GPIO_TypeDef *GPIOx)
+{
+  return (uint32_t)(READ_REG(GPIOx->IDR));
+}
