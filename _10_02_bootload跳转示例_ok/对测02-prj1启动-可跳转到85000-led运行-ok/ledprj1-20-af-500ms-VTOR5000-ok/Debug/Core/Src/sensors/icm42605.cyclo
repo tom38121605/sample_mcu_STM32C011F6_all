@@ -1,0 +1,14 @@
+stm32c0xx_ll_gpio.h:890:22:LL_GPIO_SetOutputPin	1
+stm32c0xx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	1
+icm42605.c:18:13:icm_delay	1
+icm42605.c:23:9:icm_read_byte	1
+icm42605.c:37:6:icm_write_byte	1
+icm42605.c:50:6:icm_read_bytes	2
+icm42605.c:67:9:icm_get_chip_id	1
+icm42605.c:72:6:icm_reset	1
+icm42605.c:80:9:icm_status	1
+icm42605.c:122:6:icm_readData	1
+icm42605.c:128:7:icm_get_A_res	7
+icm42605.c:156:7:icm_get_G_res	9
+icm42605.c:199:6:icm_init	1
+icm42605.c:242:6:icm_read_xyz	1

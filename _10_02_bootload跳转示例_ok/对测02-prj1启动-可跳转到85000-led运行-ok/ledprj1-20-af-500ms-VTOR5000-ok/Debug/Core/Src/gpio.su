@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_exti.h:979:22:LL_EXTI_SetEXTISource	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:282:22:LL_GPIO_SetPinMode	64	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:493:22:LL_GPIO_SetPinPull	64	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:890:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:948:22:LL_GPIO_TogglePin	24	static
+../Core/Src/gpio.c:43:6:MX_GPIO_Init	48	static
+../Core/Src/gpio.c:122:6:led_toggle	8	static
+../Core/Src/gpio.c:131:6:ommo_led_task	8	static
+../Core/Src/gpio.c:148:6:ommo_led_err_task	8	static

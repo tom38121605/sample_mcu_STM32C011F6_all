@@ -1,0 +1,11 @@
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_rcc.h:1285:22:LL_RCC_SetI2SClockSource	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_bus.h:478:22:LL_APB2_GRP1_EnableClock	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:426:22:LL_SPI_SetStandard	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:862:22:LL_SPI_EnableNSSPulseMgt	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:905:26:LL_SPI_IsActiveFlag_RXNE	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:916:26:LL_SPI_IsActiveFlag_TXE	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:1333:25:LL_SPI_ReceiveData8	16	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_spi.h:1356:22:LL_SPI_TransmitData8	24	static
+../Core/Src/spi.c:30:6:MX_SPI1_Init	80	static
+../Core/Src/spi.c:99:9:SPI_TxRx	16	static

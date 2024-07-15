@@ -1,0 +1,14 @@
+../Core/Src/main.c:412:6:delay_nop	0	static,ignoring_inline_asm
+../Core/Src/main.c:420:6:iputs1	0	static
+../Core/Src/main.c:427:6:iputbytes1	8	static
+../Core/Src/main.c:433:6:Send_Data_To_UART1	0	static
+../Core/Src/main.c:439:9:get_checksum_8	0	static
+../Core/Src/main.c:456:6:uartsendcmd	8	static,ignoring_inline_asm
+../Core/Src/main.c:469:10:byte2uint32	20	static
+../Core/Src/main.c:497:10:calcu_crc32	8	static
+../Core/Src/main.c:520:10:calcu_crc32ex	8	static
+../Core/Src/main.c:541:6:dowithuart	0	static,ignoring_inline_asm
+../Core/Src/main.c:621:6:checkresendcmd	48	static,ignoring_inline_asm
+../Core/Src/main.c:953:6:SystemClock_Config	8	static
+../Core/Src/main.c:756:5:main	56	static
+../Core/Src/main.c:990:6:Error_Handler	0	static,ignoring_inline_asm

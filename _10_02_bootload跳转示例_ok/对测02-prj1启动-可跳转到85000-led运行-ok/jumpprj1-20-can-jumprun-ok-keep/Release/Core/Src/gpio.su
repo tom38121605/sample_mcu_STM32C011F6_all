@@ -1,0 +1,7 @@
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_bus.h:672:22:LL_IOP_GRP1_EnableClock	8	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:493:22:LL_GPIO_SetPinPull.constprop	24	static
+../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_ll_gpio.h:282:22:LL_GPIO_SetPinMode.constprop	24	static
+../Core/Src/gpio.c:43:6:MX_GPIO_Init	56	static,ignoring_inline_asm
+../Core/Src/gpio.c:175:6:led_toggle	0	static
+../Core/Src/gpio.c:184:6:ommo_led_task	0	static
+../Core/Src/gpio.c:201:6:ommo_led_err_task	0	static

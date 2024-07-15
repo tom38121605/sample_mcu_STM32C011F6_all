@@ -1,0 +1,3 @@
+../Core/Src/usart.c:37:6:MX_USART1_UART_Init	80	static,ignoring_inline_asm
+../Core/Src/usart.c:123:6:USART_TXEmpty_Callback	12	static,ignoring_inline_asm
+../Core/Src/usart.c:143:6:USART_CharTransmitComplete_Callback	0	static,ignoring_inline_asm
